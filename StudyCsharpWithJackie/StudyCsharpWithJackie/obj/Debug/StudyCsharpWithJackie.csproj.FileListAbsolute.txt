@@ -1,0 +1,10 @@
+C:\Users\JackiePC\source\repos\StudyCsharpWithJackie\StudyCsharpWithJackie\bin\Debug\StudyCsharpWithJackie.exe.config
+C:\Users\JackiePC\source\repos\StudyCsharpWithJackie\StudyCsharpWithJackie\bin\Debug\StudyCsharpWithJackie.exe
+C:\Users\JackiePC\source\repos\StudyCsharpWithJackie\StudyCsharpWithJackie\bin\Debug\StudyCsharpWithJackie.pdb
+C:\Users\JackiePC\source\repos\StudyCsharpWithJackie\StudyCsharpWithJackie\obj\Debug\StudyCsharpWithJackie.csproj.AssemblyReference.cache
+C:\Users\JackiePC\source\repos\StudyCsharpWithJackie\StudyCsharpWithJackie\obj\Debug\StudyCsharpWithJackie.Main.resources
+C:\Users\JackiePC\source\repos\StudyCsharpWithJackie\StudyCsharpWithJackie\obj\Debug\StudyCsharpWithJackie.Properties.Resources.resources
+C:\Users\JackiePC\source\repos\StudyCsharpWithJackie\StudyCsharpWithJackie\obj\Debug\StudyCsharpWithJackie.csproj.GenerateResource.cache
+C:\Users\JackiePC\source\repos\StudyCsharpWithJackie\StudyCsharpWithJackie\obj\Debug\StudyCsharpWithJackie.csproj.CoreCompileInputs.cache
+C:\Users\JackiePC\source\repos\StudyCsharpWithJackie\StudyCsharpWithJackie\obj\Debug\StudyCsharpWithJackie.exe
+C:\Users\JackiePC\source\repos\StudyCsharpWithJackie\StudyCsharpWithJackie\obj\Debug\StudyCsharpWithJackie.pdb

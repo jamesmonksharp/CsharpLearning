@@ -1,0 +1,10 @@
+C:\Users\JackiePC\source\repos\InvokeTimerToControls\InvokeTimerToControls\bin\Debug\InvokeTimerToControls.exe.config
+C:\Users\JackiePC\source\repos\InvokeTimerToControls\InvokeTimerToControls\bin\Debug\InvokeTimerToControls.exe
+C:\Users\JackiePC\source\repos\InvokeTimerToControls\InvokeTimerToControls\bin\Debug\InvokeTimerToControls.pdb
+C:\Users\JackiePC\source\repos\InvokeTimerToControls\InvokeTimerToControls\obj\Debug\InvokeTimerToControls.csproj.AssemblyReference.cache
+C:\Users\JackiePC\source\repos\InvokeTimerToControls\InvokeTimerToControls\obj\Debug\InvokeTimerToControls.Form1.resources
+C:\Users\JackiePC\source\repos\InvokeTimerToControls\InvokeTimerToControls\obj\Debug\InvokeTimerToControls.Properties.Resources.resources
+C:\Users\JackiePC\source\repos\InvokeTimerToControls\InvokeTimerToControls\obj\Debug\InvokeTimerToControls.csproj.GenerateResource.cache
+C:\Users\JackiePC\source\repos\InvokeTimerToControls\InvokeTimerToControls\obj\Debug\InvokeTimerToControls.csproj.CoreCompileInputs.cache
+C:\Users\JackiePC\source\repos\InvokeTimerToControls\InvokeTimerToControls\obj\Debug\InvokeTimerToControls.exe
+C:\Users\JackiePC\source\repos\InvokeTimerToControls\InvokeTimerToControls\obj\Debug\InvokeTimerToControls.pdb
